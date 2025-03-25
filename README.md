@@ -76,7 +76,4 @@ This project is licensed under the **MIT License**.
 🌟 GitHub: [Nimra71](https://github.com/Nimra71)  
 📧 Email: [nimrafatima745@gmail.com]  
 
----
-
-> **⭐ If you find this project useful, give it a star on GitHub! ⭐**
 
